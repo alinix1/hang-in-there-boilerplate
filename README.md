@@ -2,7 +2,7 @@
 
 ## Deploy link
 
-[Deloy Link:](https://alinix1.github.io/hang-in-there-boilerplate/)
+[Deploy Link](https://alinix1.github.io/hang-in-there-boilerplate/)
 
 ## Project Overview
 
